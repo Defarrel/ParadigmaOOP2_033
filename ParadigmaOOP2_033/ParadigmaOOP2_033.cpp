@@ -27,7 +27,7 @@ public :
 	}
 };
 
-class budi : public pekerja , public pelajar, public orang{
+class budi : public pekerja , public pelajar{
 public :
 	budi(int pUmur) :
 		pekerja(pUmur),
