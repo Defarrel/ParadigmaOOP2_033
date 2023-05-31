@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Enkapsulasi.cpp">
+    <ClCompile Include="abstraksi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

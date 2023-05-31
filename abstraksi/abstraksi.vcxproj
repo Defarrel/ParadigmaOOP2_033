@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b5f77168-b90f-437a-8482-a75f883eb28f}</ProjectGuid>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
+    <ProjectGuid>{270cb0cb-cec9-4b32-921e-59d7fa0b3a80}</ProjectGuid>
+    <RootNamespace>abstraksi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Enkapsulasi</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Enkapsulasi.cpp" />
+    <ClCompile Include="abstraksi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
